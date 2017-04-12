@@ -1,5 +1,5 @@
 ## Shiny server for Landing page
-## Dr Reza RAfiee 2017
+## Dr Reza Rafiee 2017
 
 ## load libraries
 library(shiny)
